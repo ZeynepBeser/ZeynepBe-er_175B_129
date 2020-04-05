@@ -17,6 +17,17 @@
 - İsterseniz tatlının üstüne fındık veya çilek koyabilirsiniz.
 - Soğuduktan sonra tatlıyı yiyebilirsiniz. 
 ---
+1 dilim:
+| Kalori | Protein | Yağ | Karbonhidrat |
+|-----|-----|-----|-----|
+| 360 | 4,98 | 18,07 | 45,84 |
+
+100 gram:
+| Kalori | Protein | Yağ | Karbonhidrat |
+|-----|-----|-----|-----|
+| 400 | 5,53 | 20,08 | 50,93 |
+
+---
 ## Dessert Of Biscuits
 ### Ingredients
 - 1 liter milk
@@ -35,7 +46,7 @@
 - If you want you can adding hazelnut or strawberry on dessert.
 - You can eat when dessert is cold.
 ---
-For 1 pieces:
+For 1 pieces:                                           
 | Calori | Protein | Fat | Carbonhydrat |
 |-----|-----|-----|-----|
 | 360 | 4,98 | 18,07 | 45,84 |
@@ -44,12 +55,4 @@ For 100g:
 | Calori | Protein | Fat | Carbonhydrat |
 |-----|-----|-----|-----|
 | 400 | 5,53 | 20,08 | 50,93 |
-
-
-
-
-
-
-
-
 
