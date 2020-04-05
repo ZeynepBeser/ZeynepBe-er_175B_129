@@ -17,10 +17,10 @@
 - İsterseniz tatlının üstüne fındık veya çilek koyabilirsiniz.
 - Soğuduktan sonra tatlıyı yiyebilirsiniz. 
 ---
-## Dessert With Biscuit
+## Dessert Of Biscuits
 ### Ingredients
 - 1 liter milk
-- 2 pack petibör biscuit
+- 2 pack biscuit
 - 1 glass sugar
 - 3 tablespoon flour
 - 3 tablespoon cocoa
@@ -33,7 +33,22 @@
 - Then, we are immersing biscuits in blend and lay together biscuits.
 - We are pouring residuary blend on dessert.
 - If you want you can adding hazelnut or strawberry on dessert.
-- You can eat when dessert is cold
+- You can eat when dessert is cold.
+---
+For 1 pieces:
+| Calori | Protein | Fat | Carbonhydrat |
+|-----|-----|-----|-----|
+| 360 | 4,98 | 18,07 | 45,84 |
+
+For 100g:
+| Calori | Protein | Fat | Carbonhydrat |
+|-----|-----|-----|-----|
+| 400 | 5,53 | 20,08 | 50,93 |
+
+
+
+
+
 
 
 
