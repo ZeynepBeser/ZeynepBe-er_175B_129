@@ -56,4 +56,4 @@ For 100g:
 |-----|-----|-----|-----|
 | 400 | 5,53 | 20,08 | 50,93 |
 
-![Dessert](file:///C:/Users/ahmet/Desktop/IMG-20200405-WA0035.jpg)
+![Tatlı](file:///C:/Users/ahmet/Desktop/IMG-20200405-WA0035.jpg)
